@@ -11,11 +11,3 @@ Special thanks to
 Charles
 &
 competition.shooting.analytics
-
-CHANGELOG
-
-V 1.1
-Chopped the area for mag release arm
-
-V 1.0
-Initial Creation
